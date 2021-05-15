@@ -9,11 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [iamdivyanshi.netlify.app](iamdivyanshi.netlify.app)
 
-- 📝 I regularly write articles on [https://contactdiv01.medium.com/react-js-introduction-3feef149e6cc](https://contactdiv01.medium.com/react-js-introduction-3feef149e6cc)
+- 📝 Must read my technical blogs at [https://contactdiv01.medium.com/react-js-introduction-3feef149e6cc](https://contactdiv01.medium.com/react-js-introduction-3feef149e6cc)
 
 - 📫 How to reach me **contactdiv01@gmail.com**
 
-- 📄 Know about my experiences [iamdivyanshi.netlify.app](iamdivyanshi.netlify.app)
+- 📄 Know about my experiences [https://www.linkedin.com/in/divyanshi-oberoi-a006331aa/](iamdivyanshi.netlify.app)
+
+- Checkout my youtube channel https://www.youtube.com/channel/UCQDymKHbrQaVm6zQkEhJsKg
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -21,12 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/doberoi21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/doberoi21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/divyanshi-oberoi-a006331aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divyanshi-oberoi-a006331aa/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/oberoi_divyanshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/oberoi_divyanshi/" height="30" width="40" /></a>
-<a href="https://medium.com/@contactdiv01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@contactdiv01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucqdymkhbrqavm6zqkehjskg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucqdymkhbrqavm6zqkehjskg" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/oberoideepu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/oberoideepu1" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/contactdiv01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/contactdiv01/" height="30" width="40" /></a>
 </p>
 
